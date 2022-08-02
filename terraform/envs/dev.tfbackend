@@ -1,2 +1,2 @@
-bucket="gift-card-infra-tf-state"
-prefix="terraform/state"
+bucket="dev-gift-card-infra-tf-state"
+prefix="terraform/state/dev"
